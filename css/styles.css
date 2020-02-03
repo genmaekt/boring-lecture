@@ -1,0 +1,14 @@
+h2.intro {
+  background-color: cornflowerblue;
+  font-style: italic;
+}
+
+p.intro {
+  background-color: darkcyan;
+  font-weight: 200;
+}
+
+img.intro {
+  width: 400px;
+  height: 270px;
+}
